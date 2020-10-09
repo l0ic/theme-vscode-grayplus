@@ -2,6 +2,8 @@
   "name": "Gray+",
   "type": "dark",
   "colors": {
+    "icon.foreground":"#525252",
+
     "list.hoverForeground":"#585858",
     "list.hoverBackground": "#add8e6",
     "tree.indentGuidesStroke":"#add8e6",
